@@ -1,17 +1,21 @@
+body{
+    background-color:#F7F4D5 ;
+}
 #home {
-
+    background-color: #0A3323;
 }
 
-
 #about {
-
+    background-color: #D3968C;
 }
 
 #projects {
+    background-color: #F7F4D5;
 
 }
 
 #contact {
-
+    background-color: #839958;
+   
 }
 
