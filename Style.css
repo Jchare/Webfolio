@@ -3,19 +3,27 @@ body{
 }
 #home {
     background-color: #0A3323;
+    min-height:600px;
+
+}
+#welcome-message{
+    text-align: center;
 }
 
 #about {
     background-color: #D3968C;
+    min-height:600px;
 }
 
 #projects {
     background-color: #F7F4D5;
+    min-height:600px;
 
 }
 
 #contact {
     background-color: #839958;
+    min-height:500px;
    
 }
 
